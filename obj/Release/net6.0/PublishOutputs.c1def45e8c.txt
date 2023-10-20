@@ -1,0 +1,7 @@
+C:\Users\pc\source\repos\deploy_app\deploy_app\app\publish\deploy_app.exe
+C:\Users\pc\source\repos\deploy_app\deploy_app\app\publish\appsettings.Development.json
+C:\Users\pc\source\repos\deploy_app\deploy_app\app\publish\appsettings.json
+C:\Users\pc\source\repos\deploy_app\deploy_app\app\publish\deploy_app.dll
+C:\Users\pc\source\repos\deploy_app\deploy_app\app\publish\deploy_app.deps.json
+C:\Users\pc\source\repos\deploy_app\deploy_app\app\publish\deploy_app.runtimeconfig.json
+C:\Users\pc\source\repos\deploy_app\deploy_app\app\publish\deploy_app.pdb
